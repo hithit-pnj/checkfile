@@ -4,5 +4,8 @@ __pycache__/
 venv/
 .env
 
-# Generated report: contains employee names and email addresses.
-employeefile_test_quality_report.txt
+# Generated reports: contain employee names and email addresses.
+*_quality_report.txt
+
+# Excel lock file while a workbook is open.
+~$*

@@ -1,3 +1,14 @@
+# CheckFile
+
+Deux outils, utilisés dans cet ordre. Chacun fonctionne seul.
+
+1. [Contrôle du fichier salariés](data_quality_simple/README.md) : lire le fichier et produire le rapport texte. C'est cette version qui est utilisée.
+2. [Classeur de codage](coding/README.md) : lister les modalités, leur donner un code, puis produire une copie du fichier où ces modalités sont remplacées par les codes. On le lance après le contrôle. Il ne lit pas le rapport.
+
+Le document ci-dessous décrit l'autre version, `data_quality`. Ce n'est pas celle du quotidien.
+
+---
+
 # Employee Data Quality Tool
 
 A small, dependency-light Python tool that profiles an employee data file

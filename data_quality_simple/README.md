@@ -110,3 +110,9 @@ Le nom doit être exactement celui de l'en-tête.
 ## Ce que l'outil attend
 
 Les colonnes `respid`, `Last name`, `First name` et `E-mail address` doivent être présentes, avec cette orthographe. Les autres colonnes sont décrites telles quelles. Si un en-tête manque, la fenêtre l'affiche au lieu de produire un rapport.
+
+## Étape suivante, à part
+
+Ce contrôle ne code rien. Le classeur de modalités est un autre outil, dans le dossier `coding`. On le lance après avoir lu le rapport. Il fonctionne sans ce dossier.
+
+Mode d'emploi : [coding/README.md](../coding/README.md).
